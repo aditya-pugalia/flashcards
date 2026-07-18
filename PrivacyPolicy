@@ -1,0 +1,39 @@
+Privacy Policy — Prepare Smart: AI Flashcards Effective July 18, 2026
+
+Prepare Smart: AI Flashcards ("the app", "we", "us") is a flashcard study tool. This policy explains what information we collect, how we use it, and your choices. We wrote it in plain English because legalese helps no one.
+
+1. Information We Collect
+
+We collect two categories of information:
+
+Notes you submit for AI generation. When you paste or type notes and tap "Generate from notes," the text you entered is sent to our API server so we can produce flashcard suggestions. This is the only content that ever leaves your device.
+Nothing else. Your flashcard decks, study progress, and app settings are stored entirely on your device using Apple's local storage (AsyncStorage). We never see them.
+We do not create user accounts, require sign-in, collect email addresses, or link any data to your identity.
+
+2. How We Use Your Notes
+
+Notes you submit are used for one purpose only: generating flashcard questions and answers. Your notes are forwarded to Microsoft Azure OpenAI, which processes them and returns the generated flashcards. We do not store your notes on our servers after the API response is returned — they are not logged, saved to a database, or used for training.
+
+3. Third-Party Processors
+
+The only third party that receives your data is Microsoft Azure OpenAI. Microsoft processes your notes solely to generate flashcard content on our behalf. We do not use advertising networks, analytics SDKs, crash-reporting services, or any other third-party data processors.
+
+4. Data Retention
+
+Notes submitted for AI generation are not retained after the API response is delivered. Your on-device data (decks, settings) stays on your device and is deleted when you uninstall the app or clear app storage.
+
+5. Children's Privacy (COPPA)
+
+The app is a general-audience study tool not directed at children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has submitted personal information through the AI generation feature, please contact us and we will address it promptly.
+
+6. Your Choices
+
+AI generation is optional. You can create and study decks manually without submitting any notes to our servers.
+On-device data. You can delete all local app data by uninstalling the app or using your device's "Clear App Storage" option in Settings.
+7. Changes to This Policy
+
+If we materially change our data practices, we will update the effective date above and, where appropriate, notify users through the app. Continued use of the app after changes are posted constitutes acceptance of the updated policy.
+
+8. Contact
+
+Questions or concerns? Email us at: (adi.pugalia@gmail.com)
