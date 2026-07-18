@@ -1,8 +1,8 @@
-# Study Wise
-Support and feedback for the Flashcards app — AI-powered flashcard creation for iOS.
-# Study Wise – Support
+# Prepare Smart: AI Flashcards
+Support and feedback for the Prepare Smart: AI Flashcards app — AI-powered flashcard creation for iOS.
+# Prepare Smart: AI Flashcards – Support
 
-Welcome! This is the support page for the **Study Wise** iOS app.
+Welcome! This is the support page for the **Prepare Smart: AI Flashcards** iOS app.
 
 ## 📬 Contact
 Have a question, found a bug, or want to request a feature?  
